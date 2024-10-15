@@ -53,3 +53,10 @@ With a solid understanding of back-end principles, I ensure efficient and scalab
 [![](https://visitcount.itsvg.in/api?id=motaz-ahmed-rawi&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
