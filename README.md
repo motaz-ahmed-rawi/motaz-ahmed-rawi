@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a dedicated back-end developer 🌟 focused on PHP, Laravel, and Django. Currently in my fourth year of Software Engineering at Manisa Celal Bayar University 🎓, I’m eager to leverage my skills in software development.
+👋 Hi there! I’m a dedicated back-end developer 🌟 focused on PHP, Laravel, and Django. I recently graduated with honors in Software Engineering from Manisa Celal Bayar University 🎓, and I’m eager to leverage my skills in software development.
 
 Driven by my family ❤️, I've gained hands-on experience through programs like CCNA by Cisco Networking Academy and IBM with Kodluyoruz Cyberstart 🔧, enhancing my expertise in networking and cybersecurity.
 
