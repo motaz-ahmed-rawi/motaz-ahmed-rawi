@@ -1,69 +1,73 @@
-# 💫 About Me:
-👋 Hi there! I’m a dedicated back-end developer 🌟 focused on PHP, Laravel, and Django. I recently graduated with honors in Software Engineering from Manisa Celal Bayar University 🎓, and I’m eager to leverage my skills in software development.
+# 💫 About Me
 
-Driven by my family ❤️, I've gained hands-on experience through programs like CCNA by Cisco Networking Academy and IBM with Kodluyoruz Cyberstart 🔧, enhancing my expertise in networking and cybersecurity.
+**Back-End Developer & Software Engineer**  
+Graduated with honors in **Software Engineering** from Manisa Celal Bayar University. I specialize in building efficient, scalable, and secure back-end solutions using **PHP (Laravel)** and **Python (Django)**.
 
-With a solid understanding of back-end principles, I ensure efficient and scalable solutions. Fluent in Turkish and Arabic, and proficient in English, I thrive in diverse, multicultural environments 🌍.
+Driven by a continuous passion for learning, I have expanded my expertise into network architecture and cybersecurity through specialized programs like **Cisco CCNA** and **IBM Cyberstart (Kodluyoruz)**. 
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_r1wi/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/motazsoftware)
-
-# 💻 Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-![.NET Core](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/streamlit-%23092E20.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Tkinter](https://img.shields.io/badge/tkinter-%23092E20.svg?style=for-the-badge&logo=tkinter&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-
-![PHP](https://img.shields.io/badge/php-ff1709?style=for-the-badge&logo=php&logoColor=white&color=ff1709&labelColor=gray) 
-![PHP-Laravel](https://img.shields.io/badge/Laravel-ff1709?style=for-the-badge&logo=Laravel&logoColor=white&color=ff1709&labelColor=gray) 
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-4479A1.svg?style=for-the-badge&logo=SQLite&logoColor=white) 
-![MsSQL](https://img.shields.io/badge/mssql-4479A1.svg?style=for-the-badge&logo=mssql&logoColor=white) 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Scrum](https://img.shields.io/badge/scrum-%230A0FFF.svg?style=for-the-badge&logo=scrum&logoColor=white) 
-
-![Data Mining](https://img.shields.io/badge/web-scraping-%230A0FFF.svg?style=for-the-badge&logo=web-scraping&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine-learning-%230A0FFF.svg?style=for-the-badge&logo=Machine&logoColor=white)  
-![Selenium Bot](https://img.shields.io/badge/Selenium-%230A0FFF.svg?style=for-the-badge&logo=Selenium&logoColor=white)  
-
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=motaz-ahmed-rawi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=motaz-ahmed-rawi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=motaz-ahmed-rawi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+🌐 **Languages:** Arabic (Native) | Turkish (Fluent) | English (Proficient)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=motaz-ahmed-rawi&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### 🔹 Back-End Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+
+### 🔹 Front-End & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🔹 Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+
+### 🔹 Automation & Data Engineering
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-0AFFF?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3F51B5?style=flat)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=motaz-ahmed-rawi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaz-ahmed-rawi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motaz-ahmed-rawi&theme=dark&hide_border=true" width="97%" />
+</p>
 
 
+---
 
+## 🤝 Connect with Me
 
-<br clear="both">
+<p align="left">
+  <a href="https://tr.linkedin.com/in/motazsoftware" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_r1wi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br />
 
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=motaz-ahmed-rawi&icon=0&color=9" alt="Visitor Count" />
+</p>
