@@ -44,8 +44,7 @@ Driven by a continuous passion for learning, I have expanded my expertise into n
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motaz-ahmed-rawi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaz-ahmed-rawi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motaz-ahmed-rawi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="97%" />
 </p>
 
 <p align="center">
@@ -66,8 +65,5 @@ Driven by a continuous passion for learning, I have expanded my expertise into n
   </a>
 </p>
 
-<br />
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=motaz-ahmed-rawi&icon=0&color=9" alt="Visitor Count" />
-</p>
+
