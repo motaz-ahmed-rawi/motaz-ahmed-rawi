@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Back-End Developer & Software Engineer**  
+**Software Engineer**  
 Graduated with honors in **Software Engineering** from Manisa Celal Bayar University. I specialize in building efficient, scalable, and secure back-end solutions using **PHP (Laravel)** and **Python (Django)**.
 
 Driven by a continuous passion for learning, I have expanded my expertise into network architecture and cybersecurity through specialized programs like **Cisco CCNA** and **IBM Cyberstart (Kodluyoruz)**. 
